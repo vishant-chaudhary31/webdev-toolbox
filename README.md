@@ -5,7 +5,7 @@
   </br>
   <h6>The Complete Web Development Resource Hub</h6>
   <p>
-    <span style="font-weight: bold">Created & Maintained by Vishant Kumar</span>
+    <span style="font-weight: bold">Created & Maintained by Vishant Chaudhary</span>
     </br>
     <sub>Connect with me on 
       <a href="https://www.linkedin.com/in/vishant-kumar">LinkedIn</a>, 
