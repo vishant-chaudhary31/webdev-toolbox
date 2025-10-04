@@ -8,8 +8,8 @@
     <span style="font-weight: bold">Created & Maintained by Vishant Chaudhary</span>
     </br>
     <sub>Connect with me on 
-      <a href="https://www.linkedin.com/in/vishant-kumar">LinkedIn</a>, 
-      <a href="https://twitter.com/">Twitter</a>.
+      <a href="https://www.linkedin.com/in/vishant--chaudhary">LinkedIn</a>, 
+      <a href="https://x.com/iam_vishant/">Twitter</a>.
     </sub>
   </p>
 </div>
